@@ -1,4 +1,4 @@
-<h1>Descrição do Projeto</h1>
+<h1 align="center">Descrição do Projeto</h1>
 <p>Este projeto tem como objetivo desenvolver um site para a empresa Jeferson Contador, com o objetivo de aumentar a visibilidade da empresa e melhorar a comunicação com os clientes existentes e potenciais.</p>
 
 <h2>Funcionalidades</h2>
