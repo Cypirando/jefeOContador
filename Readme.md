@@ -1,4 +1,7 @@
-<h1 align="center">Descrição do Projeto</h1>
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<h1>Descrição do Projeto</h1>
 <p>Este projeto tem como objetivo desenvolver um site para a empresa Jeferson Contador, com o objetivo de aumentar a visibilidade da empresa e melhorar a comunicação com os clientes existentes e potenciais.</p>
 
 <h2>Funcionalidades</h2>
@@ -30,3 +33,6 @@
 
 <h2>Licença</h2>
 <p>Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.</p>
+</body>
+
+</html>
