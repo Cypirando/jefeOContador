@@ -21,15 +21,6 @@
 	<li>Bootstrap.</li>
 </ul>
 
-<h2>Como Contribuir</h2>
-<p>Para contribuir com o projeto, siga as instruções abaixo:</p>
-<ol>
-	<li>Faça um fork deste repositório;</li>
-	<li>Crie uma branch com a sua feature: `git checkout -b minha-feature`;</li>
-	<li>Commit suas mudanças: `git commit -m 'feat: Minha nova feature'`;</li>
-	<li>Push para a sua branch: `git push origin minha-feature`;</li>
-	<li>Crie um Pull Request para este repositório.</li>
-</ol>
 
 <h2>Licença</h2>
 <p>Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.</p>
